@@ -1,11 +1,10 @@
-package com.axioma.zuulmicroservice;
+package com.axioma.commonmicroservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-
 @SpringBootTest
-class ZuulMicroserviceApplicationTests {
+class CommonMicroserviceApplicationTests {
 
 	@Test
 	void contextLoads() {
